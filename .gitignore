@@ -1,14 +1,3 @@
-﻿# Python
-__pycache__/
-*.py[cod]
-*.pyo
-env/
-venv/
-# Logs and backups
-logs/
-backups/
-# IDE
-.vscode/
-.idea/
+﻿
 # OS
 .DS_Store
